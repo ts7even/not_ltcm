@@ -1,2 +1,11 @@
 env/
 __pychache__/
+Factset_Screen_Data\S_P_smoked.xlsx/
+Factset_Screen_Data\Nasdaq_NYSE.xlsx
+Factset_Screen_Data\stock_data.csv
+Factset_Screen_Data\tickers_list2.txt
+Factset_Screen_Data\tickers_list.txt
+
+Wrds_Data\see_if_it_worked2.csv
+Wrds_Data\wrds_data_clean.csv
+Wrds_Data\wrds_data_raw.csv
